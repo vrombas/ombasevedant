@@ -3,7 +3,7 @@
 
 ### Hi, I'm Vedant
 
-- 💻 I'm a rising senior at the University at Buffalo
+- 💻 I'm a senior at the University at Buffalo
 - 📧 Feel free to reach me @ ombasevedant@gmail.com
 
 <!-- <a href="https://github.com/vrombas/github-stats">
